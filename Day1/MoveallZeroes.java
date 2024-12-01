@@ -1,3 +1,4 @@
+package Day1;
 class MoveallZeroes{
     public void moveZeroes(int [] nums){
         int count = 0;
